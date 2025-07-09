@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech"
+	group: "287388DF10178736"
+	icon: "create:large_cogwheel"
+	id: "7CBC95EFA2B18B14"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Machinist's Edge"
+}

@@ -1,0 +1,15 @@
+#6C5 byg:aspen_forest
+#05B minecraft:bamboo_jungle
+#41B byg:basalt_barrera
+#284 byg:crag_gardens
+#6D2 byg:dacite_shore
+#3DE minecraft:deep_ocean
+#79A minecraft:lukewarm_ocean
+#498 minecraft:lush_caves
+#4F1 minecraft:ocean
+#4AA byg:rainbow_beach
+#5FF minecraft:river
+#3AF minecraft:sparse_jungle
+#14F byg:temperate_rainforest
+#6BC byg:tropical_rainforest
+#1DB byg:weeping_witch_forest

@@ -1,0 +1,7 @@
+#244 byg:atacama_desert
+#504 byg:dead_sea
+#008 minecraft:desert
+#5FF minecraft:river
+#2B7 minecraft:warm_ocean
+#467 byg:windswept_desert
+#1C9 minecraft:wooded_badlands

@@ -1,0 +1,16 @@
+#368 byg:allium_fields
+#05B minecraft:bamboo_jungle
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#286 minecraft:grove
+#4B0 minecraft:jungle
+#498 minecraft:lush_caves
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#3DC minecraft:plains
+#634 byg:prairie
+#5FF minecraft:river
+#3AF minecraft:sparse_jungle
+#51A minecraft:stony_shore

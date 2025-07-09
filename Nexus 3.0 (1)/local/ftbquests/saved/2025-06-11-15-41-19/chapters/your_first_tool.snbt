@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "your_first_tool"
+	group: "774621643611364A"
+	icon: {
+		Count: 1b
+		id: "minecraft:wooden_pickaxe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "7C06F2F9BE8D17AB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Your First Tool"
+}

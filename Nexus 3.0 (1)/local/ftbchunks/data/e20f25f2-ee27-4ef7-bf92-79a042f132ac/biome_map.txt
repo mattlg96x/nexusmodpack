@@ -1,0 +1,13 @@
+#368 byg:allium_fields
+#3FF ars_nouveau:archwood_forest
+#41B byg:basalt_barrera
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#6DB byg:orchard
+#3DC minecraft:plains
+#634 byg:prairie
+#5FF minecraft:river

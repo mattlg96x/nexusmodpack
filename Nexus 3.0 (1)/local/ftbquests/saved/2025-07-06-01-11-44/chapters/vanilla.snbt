@@ -1,0 +1,410 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vanilla"
+	group: "287388DF10178736"
+	icon: {
+		Count: 1b
+		id: "minecraft:diamond_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2D49196ED11C554C"
+	order_index: 0
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5C44FB3E1A310B62"
+			rewards: [
+				{
+					id: "4E17C9F1FC092B68"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 8
+					id: "085E650D2F0BE492"
+					item: "minecraft:bread"
+					type: "item"
+				}
+				{
+					id: "4C4968F6024F53F7"
+					item: {
+						Count: 1b
+						id: "minecraft:wooden_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "50DD8676682466B9"
+					item: "minecraft:crafting_table"
+					type: "item"
+				}
+				{
+					id: "37EBA388B32F3990"
+					item: "minecraft:cooked_beef"
+					type: "item"
+				}
+				{
+					id: "11AC37812DBB5349"
+					item: {
+						Count: 1b
+						id: "minecraft:stone_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Tier 1: Survivor's First Steps"
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C44FB3E1A310B62"]
+			id: "45BCA0C6D8DCFDE0"
+			rewards: [
+				{
+					count: 64
+					id: "083140B8235E7327"
+					item: "minecraft:torch"
+					type: "item"
+				}
+				{
+					id: "649671B4FB44FA41"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46F610B977E7FEFC"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [
+				{
+					count: 10L
+					id: "747814AAB1BCEF58"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "4E2DAC143599A4B3"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5901E9D2244224BC"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F026915CDFA048F"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Tier 2: Getting Equipped"
+			x: -10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["45BCA0C6D8DCFDE0"]
+			dependency_requirement: "one_completed"
+			id: "12F3B246F04D873F"
+			rewards: [
+				{
+					id: "2EA471D9D56F2856"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 5
+					id: "52D336287C1AC39E"
+					item: {
+						Count: 1b
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:long_fire_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D2BA667661E24A5"
+					item: "minecraft:golden_carrot"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "788E426A2253D49D"
+					item: "minecraft:brewing_stand"
+					type: "item"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "7F6A330779D48532"
+					type: "dimension"
+				}
+				{
+					id: "7A7A36A247D6CA23"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2EF762924C0AE564"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01C0DDA64DDDFE07"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Tier 3: Into The depths"
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["12F3B246F04D873F"]
+			id: "29337E5544ED3A1E"
+			rewards: [
+				{
+					id: "34F2E0307B7A278C"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "7DD2FDAD308EFFDC"
+					item: "minecraft:blaze_powder"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "0A2E9CFD6D32A463"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "104DFFD3864263F5"
+					item: "minecraft:ender_eye"
+					type: "item"
+				}
+				{
+					entity: "minecraft:enderman"
+					id: "4F9CFA64A665A67C"
+					title: "kill 10 Enderman"
+					type: "kill"
+					value: 10L
+				}
+				{
+					id: "7DA6D7158765966A"
+					structure: "minecraft:stronghold"
+					title: "Locate Stronghold"
+					type: "structure"
+				}
+			]
+			title: "Tier 4: Eyes of the End"
+			x: -10.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["29337E5544ED3A1E"]
+			hide_dependency_lines: false
+			id: "79CE2CCA8CDF4A3B"
+			rewards: [
+				{
+					id: "125425D5C96DB1DB"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "4BD1ED167835DB36"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					dimension: "minecraft:the_end"
+					id: "473F0B457EB489F5"
+					title: "Enter End"
+					type: "dimension"
+				}
+				{
+					id: "13F1227FA32145E4"
+					item: "minecraft:dragon_head"
+					type: "item"
+				}
+			]
+			title: "Tier 5: Dragon's End"
+			x: -7.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["79CE2CCA8CDF4A3B"]
+			id: "2D2828EFA74128C0"
+			rewards: [
+				{
+					id: "30CA0513496B9587"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "24421AFCE954F50A"
+					item: "minecraft:recovery_compass"
+					type: "item"
+				}
+				{
+					id: "6BA114B6D1AE0ABD"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 5s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					biome: "minecraft:deep_dark"
+					id: "72ACF74267AAFE9B"
+					title: "Enter Deep Dark"
+					type: "biome"
+				}
+				{
+					entity: "minecraft:warden"
+					id: "04BFC6DFD822FBB1"
+					title: "Kill Warden"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "5F2BCC94B7993173"
+					structure: "minecraft:ancient_city"
+					title: "Loot the City"
+					type: "structure"
+				}
+			]
+			title: "Tier 6: Legends of the Deep"
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"79CE2CCA8CDF4A3B"
+				"29337E5544ED3A1E"
+				"12F3B246F04D873F"
+				"45BCA0C6D8DCFDE0"
+				"5C44FB3E1A310B62"
+				"2D2828EFA74128C0"
+			]
+			id: "10F049A264664206"
+			rewards: [
+				{
+					id: "12A49076BC19EA79"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "053FD0282B50AE87"
+					item: {
+						Count: 1b
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:long_slow_falling"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28FD518DC3AC3B12"
+					item: {
+						Count: 1b
+						id: "minecraft:elytra"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6DC45A924719BE99"
+					title: "Complete The Raid"
+					type: "checkmark"
+				}
+				{
+					advancement: "minecraft:adventure/hero_of_the_village"
+					criterion: ""
+					id: "65050B8721450EAE"
+					title: "Complete the Raid"
+					type: "advancement"
+				}
+			]
+			x: -7.0d
+			y: -2.0d
+		}
+	]
+	title: "Path of the Overworld"
+}

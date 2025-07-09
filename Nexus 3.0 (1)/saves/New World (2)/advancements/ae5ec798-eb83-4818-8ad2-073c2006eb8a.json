@@ -1,0 +1,1371 @@
+{
+  "mcwbyg:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/diorite_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/holly_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/red_blossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/brown_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/fir_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/shale_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-07-08 12:13:34 -0400",
+      "has_cobweb": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cypress_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/ether_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/lament_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/orange_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/redwood_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/dacite_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/witch_hazel_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/palo_verde_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cika_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/yellow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/permafrost_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/flowering_orchard_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/zelkova_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/mossy_cobblestone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/travertine_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/granite_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cherry_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 12:13:36 -0400"
+    },
+    "done": false
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/limestone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/blue_blossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 12:13:36 -0400"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/red_rock_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 12:13:36 -0400"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/pine_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/witch_hazel_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/red_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/tuff_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/white_cherry_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/sythian_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/white_mangrove_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/palm_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/blue_enchanted_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/zelkova_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/red_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/flowering_palo_verde_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/brown_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/lavender_blossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/pink_blossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/araucaria_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/red_sandstone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/dripstone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cika_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/blue_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/baobab_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/maple_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/flowering_indigo_jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/calcite_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/aspen_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/red_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "modonomicon:modonomicon/root": {
+    "criteria": {
+      "modonomicon_present": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/willow_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/soapstone_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/pine_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/ether_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/flowering_jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/blue_enchanted_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/blooming_witch_hazel_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/white_mangrove_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/orange_blossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-08 12:13:36 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/rainbow_eucalyptus_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/baobab_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/ancient_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/orange_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/orange_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/jacaranda_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/blackstone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/bulbis_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/soul_sandstone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/lament_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-07-08 12:13:34 -0400",
+      "has_cracked_stone_bricks": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/rainbow_eucalyptus_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/sandstone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-08 21:57:08 -0400",
+      "minecraft:taiga": "2025-07-08 21:55:24 -0400",
+      "minecraft:beach": "2025-07-08 12:13:36 -0400",
+      "minecraft:cold_ocean": "2025-07-08 20:52:51 -0400",
+      "minecraft:lush_caves": "2025-07-08 21:56:00 -0400"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 12:13:36 -0400"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/imparius_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/aspen_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/pink_cherry_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/yellow_blossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/cypress_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/yellow_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/jasper_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mcwquark:recipes/azalea_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/ebony_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 22:09:54 -0400"
+    },
+    "done": false
+  },
+  "mcwquark:recipes/cobblestone_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/scoria_stone_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/ebony_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/green_enchanted_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/mahogany_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/green_enchanted_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/andesite_bricks_fences": {
+    "criteria": {
+      "has_sand": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/blossom_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/holly_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/nightshade_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-08 12:13:34 -0400"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "mcwquark:recipes/ancient_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-08 12:13:35 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

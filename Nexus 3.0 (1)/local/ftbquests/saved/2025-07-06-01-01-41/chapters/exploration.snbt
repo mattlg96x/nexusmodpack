@@ -1,0 +1,459 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exploration"
+	group: "287388DF10178736"
+	icon: "minecraft:compass"
+	id: "1AADE95E06DBD9C6"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "06ABFA4CBF482F21"
+			rewards: [
+				{
+					id: "45E5BDABC46FD2FD"
+					item: {
+						Count: 1b
+						id: "naturescompass:naturescompass"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "5C01F41C7239F4F0"
+					item: "minecraft:cooked_chicken"
+					type: "item"
+				}
+				{
+					id: "7F84A199A8C71A8C"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					biome: "minecraft:forest"
+					id: "305A84D73F2EE5C4"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:plains"
+					id: "5D028AE44E2EE9FA"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:desert"
+					id: "537E26637D1C654A"
+					type: "biome"
+				}
+				{
+					id: "76221C03CA6FA87B"
+					item: "minecraft:oak_boat"
+					type: "item"
+				}
+				{
+					id: "4122E0E8BD6FB7AC"
+					item: "minecraft:compass"
+					type: "item"
+				}
+			]
+			title: "Tier 1: Wanderer's Tale"
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["06ABFA4CBF482F21"]
+			id: "50458860820CE4AD"
+			rewards: [
+				{
+					id: "45964CDB06B21094"
+					type: "xp"
+					xp: 200
+				}
+				{
+					count: 5
+					id: "39FC0F16B40820EC"
+					item: "minecraft:experience_bottle"
+					type: "item"
+				}
+				{
+					id: "3BB3B620AC63B361"
+					item: "minecraft:name_tag"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4183677DBDF6C121"
+					structure: "minecraft:trail_ruins"
+					type: "structure"
+				}
+				{
+					dimension: "twilightforest:twilight_forest"
+					id: "2C9A40D200B47EFF"
+					type: "dimension"
+				}
+			]
+			title: "Tier 2: Ruins and Dimensions"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["50458860820CE4AD"]
+			dependency_requirement: "one_completed"
+			id: "59C07FF310EB8233"
+			rewards: [
+				{
+					count: 2
+					id: "1A20250091C45292"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+				{
+					id: "17C533BE89688CD1"
+					item: "minecraft:chorus_fruit"
+					type: "item"
+				}
+				{
+					id: "2CE1E07F2430A57D"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [
+				{
+					dimension: "minecraft:the_nether"
+					id: "6BE4CD0357152534"
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "2E818D745C35126C"
+					type: "dimension"
+				}
+			]
+			title: "Tier 3: Through the Veil"
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["59C07FF310EB8233"]
+			id: "034A2293802D6F85"
+			rewards: [
+				{
+					id: "688EDB10BF0F8EE7"
+					item: {
+						Count: 1b
+						id: "minecraft:elytra"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71C20D3B753DACE7"
+					item: {
+						Count: 1b
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:long_slow_falling"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "31147A3E20C01319"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [
+				{
+					dimension: "aether:the_aether"
+					id: "763F49B13C3B0E3F"
+					type: "dimension"
+				}
+				{
+					dimension: "blue_skies:everbright"
+					id: "3402096AA1BE3173"
+					type: "dimension"
+				}
+				{
+					entity: "aether:slider"
+					id: "2F4F97536331E7D6"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "blue_skies:summoner"
+					id: "32347BCABC20488E"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Tier 4: Skyborn Pilgrim"
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["034A2293802D6F85"]
+			id: "1A6540F96BD96DAB"
+			rewards: [
+				{
+					count: 5
+					id: "52BC41C5880B9300"
+					item: "minecraft:lodestone"
+					type: "item"
+				}
+				{
+					id: "670A5558213BFC3D"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "apotheosis:scavenger"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "488DBA4276F7B003"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "apotheosis:life_mending"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B67C3998C9E53E1"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "002035EE986274DE"
+					type: "xp"
+					xp: 10000
+				}
+			]
+			tasks: [
+				{
+					id: "29A179CFA3F8C4C2"
+					item: "minecraft:echo_shard"
+					type: "item"
+				}
+				{
+					id: "2731BD74FA343CB1"
+					item: "blue_skies:blinding_key"
+					type: "item"
+				}
+				{
+					id: "018782CB9A7D6CF1"
+					item: "blue_skies:nature_key"
+					type: "item"
+				}
+				{
+					id: "5906CCCE3AF644E1"
+					item: "blue_skies:poison_key"
+					type: "item"
+				}
+				{
+					id: "3F327A288901FA46"
+					item: {
+						Count: 1b
+						id: "aether:valkyrie_lance"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Tier 5: Architects of the Unknown"
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1A6540F96BD96DAB"]
+			id: "4372D630C2156CD3"
+			rewards: [
+				{
+					id: "4FE6CE43F617D974"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 6s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "535B9B47A6650F1A"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "0E7CD175F1CCFB72"
+					item: {
+						Count: 1b
+						id: "minecraft:potion"
+						tag: {
+							Potion: "apotheosis:strong_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43A7F46E36F074F7"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "166C8F466FBDDEF2"
+					item: {
+						Count: 1b
+						id: "deeperdarker:warden_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F6DF4A6EF2D0715"
+					item: {
+						Count: 1b
+						id: "deeperdarker:warden_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43F7F71CF7A22356"
+					item: {
+						Count: 1b
+						id: "deeperdarker:warden_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EB3186ED99F9E5E"
+					item: {
+						Count: 1b
+						id: "deeperdarker:warden_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "cataclysm:nameless_sorcerer"
+					id: "2728B832AB6B5DD7"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "twilightforest:minoshroom"
+					id: "46C2B8F52993CAEB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					biome: "minecraft:deep_dark"
+					id: "6A1807AC8013C6D8"
+					type: "biome"
+				}
+				{
+					entity: "minecraft:warden"
+					id: "731FEE1C8CFC47AB"
+					type: "kill"
+					value: 5L
+				}
+			]
+			title: "Tier 6: Weaver's of the Deep"
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4372D630C2156CD3"]
+			id: "36B76BFDC1380FCB"
+			rewards: [
+				{
+					count: 5
+					id: "6F9AF7DD3C761F9B"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "559DA7C603ACB981"
+					item: {
+						Count: 1b
+						id: "cataclysm:ignitium_elytra_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B60EB2FB2EA2750"
+					type: "xp"
+					xp: 5000
+				}
+			]
+			tasks: [
+				{
+					entity: "aether:valkyrie_queen"
+					id: "453AFFE3DDD8E902"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:ender_dragon"
+					id: "3D1954DE3AC74C09"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "blue_skies:summoner"
+					id: "5C41C2F374B7E1BA"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Tier 7: Breaker of Realms"
+			x: 0.5d
+			y: -4.5d
+		}
+	]
+	title: "Realms and Frontier"
+}

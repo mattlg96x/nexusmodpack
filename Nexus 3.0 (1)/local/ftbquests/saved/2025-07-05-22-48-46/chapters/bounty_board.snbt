@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bounty_board"
+	group: "287388DF10178736"
+	icon: {
+		Count: 1b
+		id: "minecraft:crossbow"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2606E39324D54F0D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Order of the Mark"
+}

@@ -1,0 +1,11 @@
+#040 byg:araucaria_savanna
+#556 minecraft:beach
+#34D minecraft:deep_lukewarm_ocean
+#637 byg:firecracker_shrubland
+#79A minecraft:lukewarm_ocean
+#7BC byg:lush_stacks
+#4AA byg:rainbow_beach
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
+#51A minecraft:stony_shore

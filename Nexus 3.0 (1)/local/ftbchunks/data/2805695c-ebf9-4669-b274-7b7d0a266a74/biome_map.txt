@@ -1,0 +1,12 @@
+#6C5 byg:aspen_forest
+#46B byg:autumnal_forest
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#36D byg:black_forest
+#4F9 minecraft:dark_forest
+#79C byg:maple_taiga
+#1DF minecraft:old_growth_birch_forest
+#5FF minecraft:river
+#1D8 byg:skyris_vale
+#14F byg:temperate_rainforest
+#1DB byg:weeping_witch_forest

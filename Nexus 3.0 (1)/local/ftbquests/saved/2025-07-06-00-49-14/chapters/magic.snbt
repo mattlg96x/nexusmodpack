@@ -1,0 +1,90 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic"
+	group: "287388DF10178736"
+	icon: "ars_nouveau:archmage_spell_book"
+	id: "4687E617E9ED4C2B"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7A15209C09426CAD"
+			rewards: [
+				{
+					count: 3
+					id: "1B7EC487D8D7F3DD"
+					item: "ars_nouveau:blank_parchment"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5021490718FB6DBD"
+					item: "ars_nouveau:magebloom_crop"
+					type: "item"
+				}
+				{
+					id: "090D788E0631CFE7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "09608DBAB4058B72"
+				item: "ars_nouveau:novice_spell_book"
+				type: "item"
+			}]
+			title: "First Incantation"
+			x: -13.0d
+			y: 7.0d
+		}
+		{
+			id: "13AE62A437717059"
+			rewards: [{
+				count: 5
+				id: "664579893D43BD6B"
+				item: "ars_nouveau:source_berry_roll"
+				type: "item"
+			}]
+			tasks: [{
+				id: "346297BE7A9B083F"
+				item: "ars_nouveau:glyph_amplify"
+				type: "item"
+			}]
+			title: "First Glyph"
+			x: -13.0d
+			y: 5.5d
+		}
+		{
+			id: "7BEB25F48FFFEAFF"
+			rewards: [
+				{
+					id: "3B7B91ACFD57FDC2"
+					item: "ars_nouveau:source_jar"
+					type: "item"
+				}
+				{
+					id: "681E9A022363F7E3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "6F228A576819FCD7"
+					item: "ars_nouveau:imbuement_chamber"
+					type: "item"
+				}
+				{
+					id: "5D4452E8F6CD356E"
+					item: "ars_nouveau:source_jar"
+					type: "item"
+				}
+			]
+			title: "Imbue the Arcane"
+			x: -13.0d
+			y: 4.0d
+		}
+	]
+	title: "Arcane Domination"
+}

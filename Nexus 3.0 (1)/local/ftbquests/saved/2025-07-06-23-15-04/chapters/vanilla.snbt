@@ -1,0 +1,47 @@
+// --- Tier 1: Survivor’s First Steps ---
+{
+  id: "5C44FB3E1A310B62"
+  title: "Survivor’s First Steps"
+  subtitle: "Hit stuff. Eat food. Don't die."
+  x: -10.0d
+  y: 0.0d
+  description: "We’re going back to basics. Craft a table, chow down, and put something solid between you and the local skeleton population. You’ll thank us later."
+  tasks: [
+    {
+      id: "50DD8676682466B9"
+      item: "minecraft:crafting_table"
+      type: "item"
+    }
+    {
+      id: "37EBA388B32F3990"
+      item: "minecraft:cooked_beef"
+      type: "item"
+    }
+    {
+      id: "11AC37812DBB5349"
+      item: "minecraft:stone_pickaxe"
+      type: "item"
+    }
+  ]
+  rewards: [
+    {
+      id: "4E17C9F1FC092B68"
+      type: "xp"
+      xp: 100
+    }
+    {
+      id: "085E650D2F0BE492"
+      item: "minecraft:bread"
+      type: "item"
+      count: 8
+    }
+    {
+      id: "4C4968F6024F53F7"
+      item: {
+        id: "minecraft:wooden_sword"
+        Count: 1b
+      }
+      type: "item"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "building"
+	group: "287388DF10178736"
+	icon: "minecraft:stone_bricks"
+	id: "643B2EDDF1D16D37"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "Architect's Path"
+}

@@ -1,0 +1,14 @@
+[22:07:32] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[22:07:32] [INIT] Loaded plugins:
+[22:07:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:07:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:07:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:07:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:07:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:07:32] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[22:07:32] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[22:07:32] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:07:32] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:07:32] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[22:07:32] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[22:07:32] [INFO] Loaded 0/0 KubeJS client scripts in 0.019 s

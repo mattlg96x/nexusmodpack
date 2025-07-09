@@ -1,0 +1,8 @@
+#Thu Jul 03 15:47:33 EDT 2025
+shadowDistance=192.0
+LIGHT_SHAFT=false
+WATER_FOG=1
+MULTICOLORED_BLOCKLIGHT=true
+shadowMapResolution=1536
+SHADOW_COLOR=false
+DYNAMIC_HANDLIGHT=true

@@ -1,0 +1,36 @@
+
+
+
+
+profile Saved activate HOT6
+	HOT1
+		"tombstone:grave_key"
+	HOT2
+		"minecraft:iron_door"
+	HOT3
+		"minecraft:spruce_pressure_plate"
+	HOT4
+		"minecraft:diamond_sword"
+	HOT5
+		"ars_nouveau:novice_spell_book"
+	HOT6
+		"ftbquests:book"
+	HOT9
+		"minecraft:iron_chestplate" -> "Enchantments" : [{id:"minecraft:unbreaking",lvl:3}]
+
+profile Saved activate HOT6
+	HOT1
+		"tombstone:grave_key"
+	HOT2
+		"minecraft:iron_door"
+	HOT3
+		"minecraft:spruce_pressure_plate"
+	HOT4
+		"minecraft:diamond_sword"
+	HOT5
+		"ars_nouveau:novice_spell_book"
+	HOT6
+		"ftbquests:book"
+	HOT9
+		"minecraft:iron_chestplate" -> "Enchantments" : [{id:"minecraft:unbreaking",lvl:3}]
+

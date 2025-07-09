@@ -1,0 +1,771 @@
+🧬 JSON Structure Report
+=========================
+
+- Key: 'baseModLoader'
+  • Count: 1
+  • Types: dict
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'forgeVersion'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'name'
+  • Count: 428
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'type'
+  • Count: 1359
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 5
+
+- Key: 'downloadUrl'
+  • Count: 427
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'filename'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'installMethod'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'latest'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'recommended'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'versionJson'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'librariesInstallLocation'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'minecraftVersion'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'installProfileJson'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'isUnlocked'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'javaArgsOverride'
+  • Count: 1
+  • Types: NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'lastPlayed'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'playedCount'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'manifest'
+  • Count: 1
+  • Types: NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'fileDate'
+  • Count: 427
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'installedModpack'
+  • Count: 1
+  • Types: NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'projectID'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'fileID'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'customAuthor'
+  • Count: 1
+  • Types: NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'modpackOverrides'
+  • Count: 1
+  • Types: list
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'isMemoryOverride'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'allocatedMemory'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'memoryAllocatedType'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'profileImagePath'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'groupId'
+  • Count: 214
+  • Types: NoneType
+  • Empty Values: 214
+  • Max Nesting Depth: 2
+
+- Key: 'isVanilla'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'guid'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'gameTypeID'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'installPath'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'cachedScans'
+  • Count: 1
+  • Types: list
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'isValid'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'lastPreviousMatchUpdate'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'lastRefreshAttempt'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'isEnabled'
+  • Count: 214
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'gameVersion'
+  • Count: 2049
+  • Types: str, list
+  • Empty Values: 622
+  • Max Nesting Depth: 5
+
+- Key: 'gameVersionFlavor'
+  • Count: 1
+  • Types: NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'gameVersionTypeId'
+  • Count: 1623
+  • Types: int, NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 5
+
+- Key: 'preferenceAlternateFile'
+  • Count: 214
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'preferenceAutoInstallUpdates'
+  • Count: 214
+  • Types: NoneType, bool
+  • Empty Values: 213
+  • Max Nesting Depth: 2
+
+- Key: 'preferenceDeleteOrphanedDependencies'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'preferenceDeleteSavedVariables'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'preferenceReleaseType'
+  • Count: 214
+  • Types: int, NoneType
+  • Empty Values: 213
+  • Max Nesting Depth: 2
+
+- Key: 'preferenceModdingFolderPath'
+  • Count: 1
+  • Types: NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'syncProfile'
+  • Count: 1
+  • Types: dict
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'PreferenceEnabled'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'PreferenceAutoSync'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'PreferenceAutoDelete'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'PreferenceBackupSavedVariables'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'GameInstanceGuid'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'SyncProfileID'
+  • Count: 1
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'SavedVariablesProfile'
+  • Count: 1
+  • Types: NoneType
+  • Empty Values: 1
+  • Max Nesting Depth: 1
+
+- Key: 'LastSyncDate'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 1
+
+- Key: 'installDate'
+  • Count: 1
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'installedAddons'
+  • Count: 1
+  • Types: list
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'instanceID'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'modSource'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'addonID'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'gameID'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'categoryClassID'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'categorySection'
+  • Count: 213
+  • Types: dict
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'id'
+  • Count: 639
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'gameId'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'packageType'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'path'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'initialInclusionPattern'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'gameCategoryId'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'categoryIds'
+  • Count: 213
+  • Types: list
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'gameInstanceID'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'modFolderPath'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'fileNameOnDisk'
+  • Count: 639
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'authors'
+  • Count: 213
+  • Types: list
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'Id'
+  • Count: 286
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 4
+
+- Key: 'Name'
+  • Count: 286
+  • Types: NoneType
+  • Empty Values: 286
+  • Max Nesting Depth: 4
+
+- Key: 'primaryAuthor'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'primaryCategoryId'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'webSiteURL'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'issuesURL'
+  • Count: 213
+  • Types: NoneType, str
+  • Empty Values: 23
+  • Max Nesting Depth: 2
+
+- Key: 'wikiURL'
+  • Count: 213
+  • Types: NoneType, str
+  • Empty Values: 133
+  • Max Nesting Depth: 2
+
+- Key: 'thumbnailUrl'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'tags'
+  • Count: 213
+  • Types: list
+  • Empty Values: 213
+  • Max Nesting Depth: 2
+
+- Key: 'installedFile'
+  • Count: 213
+  • Types: dict
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'fileName'
+  • Count: 426
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'fileLength'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'releaseType'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'fileStatus'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'isAlternate'
+  • Count: 426
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'alternateFileId'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'serverPackFileId'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'dependencies'
+  • Count: 426
+  • Types: list
+  • Empty Values: 220
+  • Max Nesting Depth: 3
+
+- Key: 'addonId'
+  • Count: 506
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 5
+
+- Key: 'isAvailable'
+  • Count: 426
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'modules'
+  • Count: 426
+  • Types: list
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'foldername'
+  • Count: 3137
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 5
+
+- Key: 'fingerprint'
+  • Count: 3137
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 5
+
+- Key: 'invalidFingerprint'
+  • Count: 3137
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 5
+
+- Key: 'packageFingerprint'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'sortableGameVersion'
+  • Count: 426
+  • Types: list
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'gameVersionName'
+  • Count: 1622
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 5
+
+- Key: 'hasInstallScript'
+  • Count: 426
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'isCompatibleWithClient'
+  • Count: 426
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'isEarlyAccessContent'
+  • Count: 426
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'restrictProjectFileAccess'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'projectStatus'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'projectId'
+  • Count: 426
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'hashes'
+  • Count: 426
+  • Types: list
+  • Empty Values: 0
+  • Max Nesting Depth: 3
+
+- Key: 'value'
+  • Count: 852
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 5
+
+- Key: 'dateInstalled'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'dateUpdated'
+  • Count: 213
+  • Types: str
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'status'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'installSource'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'filePaths'
+  • Count: 213
+  • Types: list
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'preferenceIsIgnored'
+  • Count: 213
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'isModified'
+  • Count: 213
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'isWorkingCopy'
+  • Count: 213
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'isFuzzyMatch'
+  • Count: 213
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'manifestName'
+  • Count: 213
+  • Types: NoneType
+  • Empty Values: 213
+  • Max Nesting Depth: 2
+
+- Key: 'installedTargets'
+  • Count: 213
+  • Types: list
+  • Empty Values: 213
+  • Max Nesting Depth: 2
+
+- Key: 'latestFile'
+  • Count: 213
+  • Types: dict
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'allowModDistribution'
+  • Count: 213
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'exportDisabledReason'
+  • Count: 213
+  • Types: int
+  • Empty Values: 0
+  • Max Nesting Depth: 2
+
+- Key: 'extraIncludePattern'
+  • Count: 3
+  • Types: str
+  • Empty Values: 3
+  • Max Nesting Depth: 3
+
+- Key: 'installedGamePrerequisites'
+  • Count: 1
+  • Types: list
+  • Empty Values: 1
+  • Max Nesting Depth: 0
+
+- Key: 'wasNameManuallyChanged'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+
+- Key: 'wasGameVersionTypeIdManuallyChanged'
+  • Count: 1
+  • Types: bool
+  • Empty Values: 0
+  • Max Nesting Depth: 0
+

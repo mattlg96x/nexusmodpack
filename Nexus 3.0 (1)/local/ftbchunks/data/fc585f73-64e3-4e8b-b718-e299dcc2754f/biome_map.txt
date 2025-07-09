@@ -1,0 +1,10 @@
+#244 byg:atacama_desert
+#637 byg:firecracker_shrubland
+#79A minecraft:lukewarm_ocean
+#07C byg:mojave_desert
+#4AA byg:rainbow_beach
+#5FF minecraft:river
+#2B7 minecraft:warm_ocean
+#3C1 byg:white_mangrove_marshes
+#467 byg:windswept_desert
+#579 minecraft:windswept_savanna

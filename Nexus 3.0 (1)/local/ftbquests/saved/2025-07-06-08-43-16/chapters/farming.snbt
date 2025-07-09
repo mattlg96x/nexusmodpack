@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farming"
+	group: "287388DF10178736"
+	icon: "minecraft:wheat"
+	id: "4969D6FD2E606971"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Harvest Cycle"
+}

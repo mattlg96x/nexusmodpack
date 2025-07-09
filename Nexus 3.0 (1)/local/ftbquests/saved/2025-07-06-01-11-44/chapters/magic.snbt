@@ -1,0 +1,213 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic"
+	group: "287388DF10178736"
+	icon: "ars_nouveau:archmage_spell_book"
+	id: "4687E617E9ED4C2B"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7A15209C09426CAD"
+			rewards: [
+				{
+					count: 3
+					id: "1B7EC487D8D7F3DD"
+					item: "ars_nouveau:blank_parchment"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5021490718FB6DBD"
+					item: "ars_nouveau:magebloom_crop"
+					type: "item"
+				}
+				{
+					id: "090D788E0631CFE7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "09608DBAB4058B72"
+				item: "ars_nouveau:novice_spell_book"
+				type: "item"
+			}]
+			title: "First Incantation"
+			x: -13.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7A15209C09426CAD"]
+			id: "13AE62A437717059"
+			rewards: [{
+				count: 5
+				id: "664579893D43BD6B"
+				item: "ars_nouveau:source_berry_roll"
+				type: "item"
+			}]
+			tasks: [{
+				id: "346297BE7A9B083F"
+				item: "ars_nouveau:glyph_amplify"
+				type: "item"
+			}]
+			title: "First Glyph"
+			x: -13.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["13AE62A437717059"]
+			id: "7BEB25F48FFFEAFF"
+			rewards: [
+				{
+					id: "3B7B91ACFD57FDC2"
+					item: "ars_nouveau:source_jar"
+					type: "item"
+				}
+				{
+					id: "681E9A022363F7E3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "6F228A576819FCD7"
+					item: "ars_nouveau:imbuement_chamber"
+					type: "item"
+				}
+				{
+					id: "5D4452E8F6CD356E"
+					item: "ars_nouveau:source_jar"
+					type: "item"
+				}
+			]
+			title: "Imbue the Arcane"
+			x: -13.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7BEB25F48FFFEAFF"]
+			id: "33488B9698365949"
+			rewards: [{
+				id: "21B1133FC22A2D36"
+				item: "ars_nouveau:amulet_of_mana_boost"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "69E516546E63D517"
+					item: "ars_nouveau:relay"
+					type: "item"
+				}
+				{
+					id: "47A7AAA3A48EBA9C"
+					item: "ars_nouveau:source_gem"
+					type: "item"
+				}
+			]
+			title: "Mana in Motion"
+			x: -13.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["33488B9698365949"]
+			id: "6BE7B3E977D61E25"
+			rewards: [
+				{
+					id: "47A35EE13F26CEAA"
+					item: "ars_nouveau:apprentice_spell_book"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "174784E31B72A885"
+					item: "ars_nouveau:wilden_wing"
+					type: "item"
+				}
+				{
+					id: "421F662B2156A4FE"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [
+				{
+					id: "34573D87D6A19CAE"
+					item: {
+						Count: 1b
+						id: "ars_nouveau:spell_parchment"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "208FD8EE8741981E"
+					item: {
+						Count: 1b
+						id: "ars_nouveau:archmage_hood"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "650EA58EF303E3DA"
+					item: {
+						Count: 1b
+						id: "ars_nouveau:archmage_robes"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1856510F3F482351"
+					item: {
+						Count: 1b
+						id: "ars_nouveau:archmage_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "440F963D6FAD2A67"
+					item: {
+						Count: 1b
+						id: "ars_nouveau:archmage_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Mage's Arsenal"
+			x: -13.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6BE7B3E977D61E25"]
+			id: "38A822A9C9E1D48F"
+			rewards: [{
+				id: "1CBECBA48D3B8801"
+				item: "ars_nouveau:archmage_spell_book"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E076B9B716716CD"
+				item: "ars_nouveau:ritual_brazier"
+				type: "item"
+			}]
+			title: "Gaurdian of the Rift"
+			x: -13.0d
+			y: -0.5d
+		}
+	]
+	title: "Arcane Domination"
+}
