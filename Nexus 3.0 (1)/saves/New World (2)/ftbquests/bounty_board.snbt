@@ -1,0 +1,374 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bounty_board"
+	group: "287388DF10178736"
+	icon: {
+		Count: 1b
+		id: "minecraft:crossbow"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2606E39324D54F0D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5EFC01EC527F0940"
+			rewards: [
+				{
+					id: "0610A78317F5D862"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "453C08615341C81C"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "07DA87EE2C0725B0"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "3D60F80B35456256"
+					title: "Tier 1: Marked For Survival"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecraft:skeleton"
+					id: "096BBCAF2EF512A3"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecraft:spider"
+					id: "04C66FC12F53BE0F"
+					type: "kill"
+					value: 3L
+				}
+			]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5EFC01EC527F0940"]
+			id: "0F3DC0B2309FA6EB"
+			rewards: [
+				{
+					id: "53C445B1F7B992CF"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 32
+					id: "28B84A6441AB25D3"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+				{
+					id: "757AA2262D15AD2D"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:looting"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38C8FBBB71CB8109"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:piercing"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:pillager"
+					id: "4609954EF512D51C"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "minecraft:vindicator"
+					id: "67EF861DB665531D"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "minecraft:evoker"
+					id: "2608B1A41A295490"
+					type: "kill"
+					value: 10L
+				}
+			]
+			title: "Tier 2: Crimson Hunt"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0F3DC0B2309FA6EB"]
+			id: "2346052C614D5CC1"
+			rewards: [
+				{
+					id: "5762D551ACD32940"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "51529204B0F719FF"
+					item: {
+						Count: 1b
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:strong_strength"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F01AD5ED46AA1EA"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:witch"
+					id: "259DDBD17D60F7E4"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "minecraft:enderman"
+					id: "5F7228B18EBE80B8"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "born_in_chaos_v1:zombie_clown"
+					id: "1CD561D1E115073B"
+					type: "kill"
+					value: 10L
+				}
+			]
+			title: "Tier 3: Cursed and Carved"
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2346052C614D5CC1"]
+			dependency_requirement: "one_completed"
+			id: "1EE245D436D7CD68"
+			rewards: [
+				{
+					id: "404097499C7F93A4"
+					item: {
+						Count: 1b
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:long_fire_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "440EF39EEB80FEA8"
+					item: "minecraft:soul_sand"
+					type: "item"
+				}
+				{
+					id: "0D767B3C9F7FCB61"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:wither_skeleton"
+					id: "6104F89ED4648A46"
+					type: "kill"
+					value: 5L
+				}
+				{
+					id: "7D26C607946EF7B0"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+				{
+					entity: "minecraft:blaze"
+					id: "7D74FC8501C03CCF"
+					type: "kill"
+					value: 5L
+				}
+			]
+			title: "Tier 4: SoulSplitter"
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1EE245D436D7CD68"]
+			id: "1651BE99CBDC43E3"
+			rewards: [
+				{
+					id: "7D64E7AE2ED11551"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "59D360452E3F95D1"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "7C4F951B0F3AC8E0"
+					type: "xp"
+					xp: 400
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:wither"
+					id: "202D0293F7C1C0B8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:piglin_brute"
+					id: "086585E174FC86DE"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Tier 5: Hellforged Honor"
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["1651BE99CBDC43E3"]
+			id: "226E2C1E32907087"
+			rewards: [
+				{
+					id: "2DA05A364FEED33F"
+					item: "artifacts:night_vision_goggles"
+					type: "item"
+				}
+				{
+					id: "1B24055C820447B6"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "3BFFA9B8A23BCE9B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Tier 6: Awakended Terror"
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["226E2C1E32907087"]
+			id: "3F8BAD232058336B"
+			rewards: [
+				{
+					id: "183B8BFA4D80B283"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "4B93F7BCB0CC6E3A"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					id: "7FB90D0370D5AFC8"
+					type: "xp"
+					xp: 700
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:ender_dragon"
+					id: "4C3226FA2D90B63A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:elder_guardian"
+					id: "00ACD08CA3BCBA95"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Tier 7: Mythslayer's Trial"
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["226E2C1E32907087"]
+			id: "54EB7898C5A59E97"
+			rewards: [
+				{
+					command: "/title @s title {\"text\":\"CHAMPION OF THE ORDER\",\"color\":\"gold\",\"bold\":true,\"italic\":false}"
+					id: "2505FA671D30E06B"
+					type: "command"
+				}
+				{
+					command: "/tag @s add champion_glow/function glowpack:init"
+					id: "5A32B70052B39C5D"
+					type: "command"
+				}
+				{
+					id: "5260A517DEFA8176"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				id: "7244DCA188FCAB73"
+				title: "Complete all Stages"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+	]
+	title: "Order of the Mark"
+}
